@@ -4,7 +4,7 @@ Passionate about technology and it's possibilites, I like to discover, create an
 I bring ideas to life using code and creative design. 
 
 - Design Head at [DSC PCCOE](https://github.com/dscpccoe) <br>
-- I'm currently working at [CDAC Mumbai](https://www.cdac.in/index.aspx?id=mumbai) and [SoftTech Data Securities](https://softtechdata.com/) as a Machine Learning intern.
+- I'm currently working at [CDAC Mumbai](https://www.cdac.in/index.aspx?id=mumbai) and [SoftTech Data Securities](https://softtechdata.com/) as a Machine Learning intern
 
 ## Connect with me
 <img src = "/assets/icons/website.png" width="30"> [adityamahajan.tech](https://adityamahajan.tech/) <br> <br>
