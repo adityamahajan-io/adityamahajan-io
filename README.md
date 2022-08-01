@@ -3,9 +3,6 @@
 Passionate about technology and it's possibilites, I like to discover, create and innovate. <br>
 I bring ideas to life using code and creative design. 
 
-- Currently working at [Coriolis Technolgies](https://www.coriolis.co.in/) as a Full Stack Developer Intern
-- Worked at [CDAC Mumbai](https://www.cdac.in/index.aspx?id=mumbai) as an AI researcher 
-
 ## Connect with me
 <img src = "/assets/icons/website.png" width="30"> [adityamahajan.tech](https://adityamahajan.tech/) <br> <br>
 <img src = "/assets/icons/mail2.png" width="30"> [adityamahajan.tech@gmail.com](mailto:adityamahajan.tech@gmail.com) <br> <br>
